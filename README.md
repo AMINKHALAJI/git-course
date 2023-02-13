@@ -9,6 +9,8 @@ new second change
 1.Gather of modified files:`-git add all`
 2. Name the group of modification : 'git commit -m "your description"'
 3. send to the cloud/remote sepository : `git push`
+4.retrieve modification from the remote repository `git pull`
+
 
 Don't forget the `git status`to keep track of the correct state
 
