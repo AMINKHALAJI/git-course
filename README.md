@@ -14,3 +14,6 @@ new second change
 
 Don't forget the `git status`to keep track of the correct state
 
+## Branching
+we use dev branch to work with other developpers without break the "main" code.
+`git checkout -b dev`
